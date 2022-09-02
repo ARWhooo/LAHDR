@@ -1,0 +1,2 @@
+model_checkpoint_path: "Merge_HDR_final.ckpt"
+all_model_checkpoint_paths: "Merge_HDR_final.ckpt"
